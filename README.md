@@ -32,6 +32,7 @@ _Tribunal Development Assistant_
 - Worked as Credit Support Officer gathering and analysing data for loan applications.
 
 **IFDS (now SS&C)** (July 2015 to December 2016)
+
 _Book & Pricing Administrator/Team Leader_
 - Oversaw a team of 25 ensuring all reports were sent accurately and on time.
 - Held monthly meetings with team members to discuss performance and progression.
