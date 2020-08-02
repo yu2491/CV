@@ -16,19 +16,16 @@ Aspiring software developer currently on a 12 week coding bootcamp with Makers A
 
 **The Mole Clinic** (August 2019 to July 2020)  
 _Clinic Administrator_
-
 - Worked the front desk, booked/managed appointments and maintained patient records.
 - Created a guidebook for future new starters with essential information.
 - Redesigned Excel spreadsheet for follow up calls with formulas, autocomplete cells and conditional formatting.
 
 **General Medical Council** (October 2018 to March 2019)  
-_Tribunal Developmenent Assistant_
-
+_Tribunal Development Assistant_
 - Provided efficient administrative support to the Tribunal Development Section.
 - Updated and maintained systems holding Tribunal Members details.
 
 **Travelling & Working Holiday Visa in Australia** (January 2017 - July 2018)
-
 - My mind was expanded to a different culture, lifestyle and work ethic.
 - I worked on farms (picking and packing fruit) and did temporary office jobs.
 - Improved my Excel skills during a three week project for AstraZeneca merging and analysing files using vlookups and pivot tables.
@@ -42,25 +39,17 @@ _Book & Pricing Administrator/Team Leader_
 - Produced the rota including training to ensure the skills matrix was up to date.
 - Gave overviews of the book & pricing system to clients and auditors.
 
+
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Problem Solving
 
-#### This Skill
+- At the GMC not every tribunal member was appearing on the correct training attendance list, causing us to look disorganised and giving the impression that we weren’t expecting them. The error was due to the formulas in Excel being incorrect and not pulling the correct data through. I was able to fix the problem in time for future training sessions.
+- As a new starter at the Mole Clinic I was giving a lot of information on odd bits of paper which was messy if information changed and inaccessible if you didn't have the papers physically with you. I created an online guide book in order to solve both these issues. 
 
-- Experience
-- Achievements
-- Evidence
+#### High attention to detail
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
+- During my time at IFDS I regularly received a low percentage of regulatory errors or financial penalties and one quarter was the best performer on the team, with a 100% accuracy during those 3 months.
 
 ## Education
 
