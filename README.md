@@ -1,6 +1,6 @@
-## Yasmin Underdown
+## Yasmin Underdown 
 
-Aspiring software developer currently on a 12 week coding bootcamp with Makers Academy. Working in various industries over the years I found I got the most enjoyment from problem solving and using technology to streamline processes. After teaching myself Python and creating simple games such as Tic Tac Toe and Connect 4, I took the decision to pursue software engineering full time.
+Aspiring software developer currently on a 16 weeks long coding bootcamp with Makers Academy. Working in various industries over the years I found I got the most enjoyment from problem solving and using technology to streamline processes. After teaching myself Python and creating simple games such as Tic Tac Toe and Connect 4, I took the decision to pursue software engineering full time.
 
 ## Projects
 
@@ -43,13 +43,12 @@ _Book & Pricing Administrator/Team Leader_
 ## Skills
 
 #### Problem Solving
+At the GMC not every tribunal member was appearing on the correct training attendance list, causing us to look disorganised and giving the impression that we weren’t expecting them. The error was due to the formulas in Excel being incorrect and not pulling the correct data through. I was able to fix the problem in time for future training sessions.
 
-- At the GMC not every tribunal member was appearing on the correct training attendance list, causing us to look disorganised and giving the impression that we weren’t expecting them. The error was due to the formulas in Excel being incorrect and not pulling the correct data through. I was able to fix the problem in time for future training sessions.
-- As a new starter at the Mole Clinic I was giving a lot of information on odd bits of paper which was messy if information changed and inaccessible if you didn't have the papers physically with you. I created an online guide book in order to solve both these issues. 
+As a new starter at the Mole Clinic I was giving a lot of information on odd bits of paper which was messy if information changed and inaccessible if you didn't have the papers physically with you. I created an online guide book in order to solve both these issues. 
 
 #### High attention to detail
-
-- During my time at IFDS I regularly received a low percentage of regulatory errors or financial penalties and one quarter was the best performer on the team, with a 100% accuracy during those 3 months.
+During my time at IFDS I regularly received a low percentage of regulatory errors or financial penalties and one quarter was the best performer on the team, with a 100% accuracy during those 3 months.
 
 ## Education
 
