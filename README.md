@@ -1,16 +1,13 @@
 ## Yasmin Underdown
 
-Aspiring software developer currently on a 16 weeks long coding bootcamp with Makers Academy. Working in various industries over the years I found I got the most enjoyment from problem solving and using technology to streamline processes. After teaching myself Python and creating simple games such as Tic Tac Toe and Connect 4, I took the decision to pursue software engineering full time.
+Full-stack Software Developer just graduated from a 16 week long coding bootcamp with Makers Academy. 
 
 ## Projects
 
 | Name                | Description        | Tech/tools        |
 | --------------------| ------------------ | ----------------- |
-| *Final project*     | TBC                | TBC               |
-| Hangman             | Simple 2-player game of hangman.   | Ruby              |
-| Tic Tac Toe         | Simple 2-player game of tic tac toe.       | Python            |
-| Connect 4           | Simple 2-player game of connect 4.        | Python            |
-| Blackjack           | Simple player vs computer game of blackjack.| Python            |
+| <a href="https://github.com/yu2491/turtle-dash" rel="nofollow">Turtle Dash</a> | 2D browser game where the aim is to score as many points as you can before running out of time or being eaten by a shark. You can play the game <a href="http://turtle-dash.surge.sh/" rel="nofollow">here!</a> | Phaser.js, Node.js, Surge |
+| <a href="https://github.com/yu2491/acebook-rails-quadropus" rel="nofollow">Octobook</a> |  An under the sea themed facebook clone and our first project using Ruby on Rails. You can check it out <a href="https://octobook-team.herokuapp.com/" rel="nofollow">here!</a>  | Ruby, Rails, HTML, SCSS, Rspec, Capybara, Travis CI, Heroku |
 
 ## Experience
 
@@ -54,17 +51,17 @@ During my time at IFDS I regularly received a low percentage of regulatory error
 
 #### Makers Academy (July 2020 to October 2020)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara
 
 #### University of Exeter (September 2009 to July 2012)
 
 - BSc Human Biosciences - 2:2
 - The course covered many aspects of both biosciences and sports science. With modules in
 anatomy, biomechanics, physiology, forensics and microbiology.
-- I was also part of the Netball High Performance Squad and Rugby, Global Chums & Mind Your Head Societies.
+- I was also part of the Netball High Performance Squad, Rugby, Global Chums & Mind Your Head Societies.
 
 #### Any other qualifications
 
@@ -73,6 +70,5 @@ anatomy, biomechanics, physiology, forensics and microbiology.
 
 ## Hobbies
 
-I love most sports and enjoy watching major competitions, in particular female team sports.
-I currently play Tag Rugby in a local league every week and in 2012 I volunteered at the London Olympics, an experience I will never forget. I also have an active interest in climate change and equality particularly within the LGBT+
-community and I enjoy problem solving games such as sudoku, lemmings and jigsaw puzzles.
+I love most sports and enjoy watching major competitions, in particular female team sports. Covid allowing I play Tag Rugby in a local league every week and in 2012 I volunteered at the London Olympics, an experience I will never forget. I also have an active interest in equality particularly within the LGBT+
+community.
