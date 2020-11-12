@@ -1,6 +1,6 @@
 ## Yasmin Underdown
 
-Full-stack Software Developer just graduated from a 16 week long coding bootcamp with Makers Academy. 
+Fresh, motivated full-stack software developer recently graduated from Makers Academy with bundles of enthusiasm to learn. Switching from a diverse, 8-year background in administration after realising my INTP personality craved more problem solving and creativity. Priding myself in clean, readable code and wanting to use technology to have a positive impact on the world, I am now currently learning React whilst working on a mental health wellbeing app.
 
 ## Projects
 
@@ -8,34 +8,6 @@ Full-stack Software Developer just graduated from a 16 week long coding bootcamp
 | --------------------| ------------------ | ----------------- |
 | <a href="https://github.com/yu2491/turtle-dash" rel="nofollow">Turtle Dash</a> | 2D browser game where the aim is to score as many points as you can before running out of time or being eaten by a shark. You can play the game <a href="http://turtle-dash.surge.sh/" rel="nofollow">here!</a> | Phaser.js, Node.js, Surge |
 | <a href="https://github.com/yu2491/acebook-rails-quadropus" rel="nofollow">Octobook</a> |  An under the sea themed facebook clone and our first project using Ruby on Rails. You can check it out <a href="https://octobook-team.herokuapp.com/" rel="nofollow">here!</a>  | Ruby, Rails, HTML, SCSS, Rspec, Capybara, Travis CI, Heroku |
-
-## Experience
-
-**The Mole Clinic** (August 2019 to July 2020)  
-_Clinic Administrator_
-- Worked the front desk, booked/managed appointments and maintained patient records.
-- Created a guidebook for future new starters with essential information.
-- Redesigned Excel spreadsheet for follow up calls with formulas, autocomplete cells and conditional formatting.
-
-**General Medical Council** (October 2018 to March 2019)  
-_Tribunal Development Assistant_
-- Provided efficient administrative support to the Tribunal Development Section.
-- Updated and maintained systems holding Tribunal Members details.
-
-**Travelling & Working Holiday Visa in Australia** (January 2017 - July 2018)
-- My mind was expanded to a different culture, lifestyle and work ethic.
-- I worked on farms (picking and packing fruit) and did temporary office jobs.
-- Improved my Excel skills during a three week project for AstraZeneca merging and analysing files using vlookups and pivot tables.
-- Worked as Credit Support Officer gathering and analysing data for loan applications.
-
-**IFDS (now SS&C)** (July 2015 to December 2016)  
-_Book & Pricing Administrator/Team Leader_
-- Oversaw a team of 25 ensuring all reports were sent accurately and on time.
-- Held monthly meetings with team members to discuss performance and progression.
-- Communicated with other departments regarding any lateness or queries.
-- Produced the rota including training to ensure the skills matrix was up to date.
-- Gave overviews of the book & pricing system to clients and auditors.
-
 
 ## Skills
 
@@ -47,28 +19,56 @@ As a new starter at the Mole Clinic I was giving a lot of information on odd bit
 #### High attention to detail
 During my time at IFDS I regularly received a low percentage of regulatory errors or financial penalties and one quarter was the best performer on the team, with a 100% accuracy during those 3 months.
 
+## Experience
+
+**The Mole Clinic** (August 2019 to July 2020)  
+_Receptionist_
+- Worked the front desk, booked/managed appointments and maintained patient records.
+- Used _emotional intelligence_ to make patients feel at ease.
+- Took the _initiative_ to create a guidebook with essential information for future new starters and admin staff.
+- Provided ample support to team members and doctors with _creative solutions_ to challenges regarding scheduling.
+- Redesigned Excel spreadsheet for follow up calls with formulas, autocomplete cells and conditional formatting.
+
+**General Medical Council** (October 2018 to March 2019)  
+_Tribunal Development Assistant_
+- Used _great organisational skills_ to provide efficient administrative support to the Tribunal Development Section.
+- Responded to queries and fixed broken spreadsheets by _problem solving_ effectively.
+
+**Travelling & Working Holiday Visa in Australia** (January 2017 - July 2018)
+- My mind was expanded and I _adapted_ to different cultures, lifestyles and work ethics.
+- I worked on farms (picking and packing fruit) and did temporary office jobs.
+- Improved my Excel skills during a three week project for AstraZeneca merging and analysing files using vlookups and pivot tables.
+- Worked as Credit Support Officer gathering and _analysing data_ for loan applications.
+
+**IFDS (now SS&C)** (August 2013 to December 2014 & July 2015 to December 2016)  
+_Book & Pricing Administrator/Team Leader_
+- With excellent _time-management_ and _leadership_, oversaw a team of 25 to ensure reports were sent accurately and on time.
+- Used _honest, open-communication_ regarding any lateness or queries.
+- Produced daily reports of fund activity with _high attention to detail_.
+- _Gave feedback_ during monthly meetings with team members to discuss performance and progression.
+
 ## Education
 
 #### Makers Academy (July 2020 to October 2020)
 
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Capybara
+- Languages: Ruby, JavaScript, SQL, HTML, CSS
+- Frameworks/environments: Rails, Node.js, Phaser.js 
+- Databases: Postgres, MongoDB
+- Testing/Code Quality: Rspec, Jasmine, Capybara, Rubocop, Simplecov
+- CI/CD pipeline with: TravisCI, Heroku
+
+Applying industry-standard practices:
+- OOP, MVC, TDD and BDD
+- Agile/XP working practices: MVP, 2-day sprints, Stand-ups, Retros, Pairing, Mobbing, Mood check-ins.
+- Planning: User stories, CRC, Wireframes and Domain Modelling
 
 #### University of Exeter (September 2009 to July 2012)
+_BSc Human Biosciences_
 
-- BSc Human Biosciences - 2:2
 - The course covered many aspects of both biosciences and sports science. With modules in
 anatomy, biomechanics, physiology, forensics and microbiology.
 - I was also part of the Netball High Performance Squad, Rugby, Global Chums & Mind Your Head Societies.
 
-#### Any other qualifications
-
-- 2020 Complete Python Bootcamp by Jose Portilla on Udemy - In Progress
-- Java Programming Masterclass for Software Developers by Tim Buchalka on Udemy - In Progress
-
 ## Hobbies
 
-I love most sports and enjoy watching major competitions, in particular female team sports. Covid allowing I play Tag Rugby in a local league every week and in 2012 I volunteered at the London Olympics, an experience I will never forget. I also have an active interest in equality particularly within the LGBT+
-community.
+I love most sports and enjoy watching major competitions, in particular women’s football and rugby. Covid allowing I play Tag Rugby in a local league every week and in 2012 I volunteered at the London Olympics, an experience I will never forget. I also have an active interest in equality (particularly within the LGBT+ community) and mental health/wellbeing. I am currently embarking on a 30-day yoga challenge.
