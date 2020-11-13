@@ -8,22 +8,23 @@ Fresh, motivated full-stack software developer recently graduated from Makers Ac
 | --------------------| ------------------ | ----------------- |
 | <a href="https://github.com/yu2491/turtle-dash" rel="nofollow">Turtle Dash</a> | 2D browser game where the aim is to score as many points as you can before running out of time or being eaten by a shark. You can play the game <a href="http://turtle-dash.surge.sh/" rel="nofollow">here!</a> | Phaser.js, Node.js, Surge |
 | <a href="https://github.com/yu2491/acebook-rails-quadropus" rel="nofollow">Octobook</a> |  An under the sea themed facebook clone and our first project using Ruby on Rails. You can check it out <a href="https://octobook-team.herokuapp.com/" rel="nofollow">here!</a>  | Ruby, Rails, HTML, SCSS, Rspec, Capybara, Travis CI, Heroku |
+|<a href="https://github.com/yu2491/Bank-Tech-Test" rel="nofollow">Bank Tech Test</a> | A practice tech test from week 10 of Makers where we had to create banking software. I focused on following a TDD process, OOP and Single Responsibilty Principle. | Javascript, NYC Jasmine |
 
 ## Skills
 
 **Fast Learner**
-Makers was an intensive bootcamp where I was exposed to and learnt a lot within a few months. By focusing on process and transferable knowledge I was able to learn Javascript within a few weeks having not much exposure to it before. Within 2  weeks we were able to learn Rails and create a facebook clone and then for the final project we used a new framework Phaser.js to create a 2D browser game. 
+- Makers was an intensive bootcamp where I was exposed to and learnt a lot within a few months. By focusing on process and transferable knowledge I was able to learn Javascript within a few weeks having not much exposure to it before. Within 2  weeks we were able to learn Rails and create a facebook clone and then for the final project we used a new framework Phaser.js to create a 2D browser game. 
 
 **Team Work**
-Throughout the various projects during Makers I worked using agile practices and always made sure everyone on the team understood our product and was happy. In one project I was not afraid to speak up when a team member was always wanting to lead and not give other members a chance. They had recognised it within themselves as well so we were able to move forward collaboratively. 
+- Throughout the various projects during Makers I worked using agile practices and always made sure everyone on the team understood our product and was happy. In one project I was not afraid to speak up when a team member was always wanting to lead and not give other members a chance. They had recognised it within themselves as well so we were able to move forward collaboratively. 
 
 **Problem Solving**
-At the GMC not every tribunal member was appearing on the correct training attendance list, causing us to look disorganised and giving the impression that we weren’t expecting them. The error was due to the formulas in Excel being incorrect and not pulling the correct data through. I was able to fix the problem in time for future training sessions.
+- At the GMC not every tribunal member was appearing on the correct training attendance list, causing us to look disorganised and giving the impression that we weren’t expecting them. The error was due to the formulas in Excel being incorrect and not pulling the correct data through. I was able to fix the problem in time for future training sessions.
 
-As a new starter at the Mole Clinic I was giving a lot of information on odd bits of paper which was messy if information changed and inaccessible if you didn't have the papers physically with you. I created an online guide book in order to solve both these issues resulting in less confusion and 
+- As a new starter at the Mole Clinic I was giving a lot of information on odd bits of paper which was messy if information changed and inaccessible if you didn't have the papers physically with you. I created an online guide book in order to solve both these issues resulting in less confusion and 
 
 **High attention to detail**
-During my time at IFDS I regularly received a low percentage of regulatory errors or financial penalties and one quarter was the best performer on the team, with a 100% accuracy during those 3 months.
+- During my time at IFDS I regularly received a low percentage of regulatory errors or financial penalties and one quarter was the best performer on the team, with a 100% accuracy during those 3 months.
 
 ## Experience
 
